@@ -444,3 +444,13 @@ button:hover,
 .button.button-xing:focus {
   filter: brightness(90%);
 }
+
+/* Website */
+.button.button-website {
+  color: #ffffff;
+  background-color: #21759b;
+}
+.button.button-website:hover,
+.button.button-website:focus {
+  filter: brightness(90%);
+}
